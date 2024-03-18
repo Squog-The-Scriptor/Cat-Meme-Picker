@@ -117,6 +117,12 @@ input[type="radio"]{
     border: none;
     border-radius: 5px;
     margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.get-image-btn:hover {
+    color: white;
+    background-color: navy;
 }
 
 /* modal */
