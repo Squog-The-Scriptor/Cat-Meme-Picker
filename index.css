@@ -138,13 +138,13 @@ input[type="radio"]{
     justify-content: center;
     border: 1px solid #67595e;
     border-radius: 5px;
-    width: 360px;
+    width: 340px;
     height: 490px;
     background-color: #fff0ee;
 }
 
 .cat-img{
-    max-width: 340px;
+    max-width: 310px;
     max-height: 420px;
     border-radius: 5px;
 }
